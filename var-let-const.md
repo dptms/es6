@@ -38,3 +38,14 @@ person = {name:'tms'}; // 报错
 person.age = 40; // ok
 ```
 ps : 以上的例子一个是改变了对象，一个是改变了对象的属性，如果完全不想更改一个对象，可以使用`Object.freeze(obj)`
+
+# 再来个例子
+```
+for (var i = 1; i < 10; i++) {
+    console.log(i);
+    setTimeout(function () {
+        console.log(`i:${i}`);
+    }, 1000);
+}
+```
+这里把 `var` 可以换成 `let`,`const`试试。
