@@ -16,4 +16,4 @@
 * [扩展运算符](https://github.com/dptms/es6/blob/master/12.spread-operator-intro.md)
 * [对象字面量扩展](https://github.com/dptms/es6/blob/master/13.object-literal-upgrade.md)
 * [Promise](https://github.com/dptms/es6/blob/master/14.promise-intro.md)
-* [Symbol](https://github.com/dptms/es6/blob/master/15.symbol.md.md)
+* [Symbol](https://github.com/dptms/es6/blob/master/15.symbol.md)
