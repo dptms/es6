@@ -14,3 +14,4 @@
 * [数组新方法](https://github.com/dptms/es6/blob/master/10.array-methods.md)
 * [剩余参数](https://github.com/dptms/es6/blob/master/11.rest-params.md)
 * [扩展运算符](https://github.com/dptms/es6/blob/master/12.spread-operator-intro.md)
+* [对象字面量扩展](https://github.com/dptms/es6/blob/master/13.object-literal-upgrade.md)
