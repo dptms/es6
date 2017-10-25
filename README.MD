@@ -17,3 +17,5 @@
 * [对象字面量扩展](https://github.com/dptms/es6/blob/master/13.object-literal-upgrade.md)
 * [Promise](https://github.com/dptms/es6/blob/master/14.promise-intro.md)
 * [Symbol](https://github.com/dptms/es6/blob/master/15.symbol.md)
+* [模块](https://github.com/dptms/es6/blob/master/16.modules.md)
+* [类](https://github.com/dptms/es6/blob/master/17.classes.md)
