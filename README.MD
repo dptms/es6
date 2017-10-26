@@ -24,3 +24,5 @@
 * [Proxy](https://github.com/dptms/es6/blob/master/20.proxy.md)
 * [Set](https://github.com/dptms/es6/blob/master/21.set.md)
 * [WeakSet](https://github.com/dptms/es6/blob/master/22.weak-set.md)
+* [Map](https://github.com/dptms/es6/blob/master/23.map.md)
+* [WeakMap](https://github.com/dptms/es6/blob/master/24.weak-map.md)
