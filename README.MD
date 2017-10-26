@@ -22,3 +22,5 @@
 * [遍历器 迭代器](https://github.com/dptms/es6/blob/master/18.iterator.md)
 * [生成器](https://github.com/dptms/es6/blob/master/19.generator.md)
 * [Proxy](https://github.com/dptms/es6/blob/master/20.proxy.md)
+* [Set](https://github.com/dptms/es6/blob/master/21.set.md)
+* [WeakSet](https://github.com/dptms/es6/blob/master/22.weak-set.md)
