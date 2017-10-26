@@ -19,3 +19,5 @@
 * [Symbol](https://github.com/dptms/es6/blob/master/15.symbol.md)
 * [模块](https://github.com/dptms/es6/blob/master/16.modules.md)
 * [类](https://github.com/dptms/es6/blob/master/17.classes.md)
+* [遍历器 迭代器](https://github.com/dptms/es6/blob/master/18.iterator.md)
+* [生成器](https://github.com/dptms/es6/blob/master/18.generator.md)
